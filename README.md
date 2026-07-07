@@ -12,7 +12,7 @@
 
 8. For example the steps above are outlined below with their commands
 
-9. git clone https://github.com/yourusername/OkuTranslator.git
+9. git clone https://github.com/Kolle-D/Oku-Mini-Model.git
 cd OkuTranslator
 
 pip install -r requirements.txt
